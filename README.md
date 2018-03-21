@@ -1,6 +1,6 @@
 # pos
 
-> pos system
+> takeaway order system
 
 ## Build Setup
 
